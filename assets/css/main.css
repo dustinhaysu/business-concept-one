@@ -1669,3 +1669,7 @@ input, select, textarea {
 .padding-adjust {
 	padding: 1rem 1.5rem;
 }
+/*unset link formatting*/
+a{
+	all: unset;
+}
