@@ -1670,10 +1670,6 @@ input, select, textarea {
 	text-decoration: underline;
 	cursor: pointer;
 }
-/*padding-adjust*/
-.padding-adjust {
-	padding: 1rem 1.5rem;
-}
 
 
 
