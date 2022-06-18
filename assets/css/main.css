@@ -1661,6 +1661,10 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+/* unset link formatting */
+.unset{
+	all: unset;
+}		
 /* anchor tag decorations */
 .underline {
 	text-decoration: underline
@@ -1669,7 +1673,7 @@ input, select, textarea {
 .padding-adjust {
 	padding: 1rem 1.5rem;
 }
-/*unset link formatting*/
-.unset{
-	all: unset;
-}
+
+
+
+
