@@ -1670,6 +1670,6 @@ input, select, textarea {
 	padding: 1rem 1.5rem;
 }
 /*unset link formatting*/
-a{
+.unset{
 	all: unset;
 }
