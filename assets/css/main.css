@@ -1664,6 +1664,7 @@ input, select, textarea {
 /* unset link formatting */
 .unset{
 	all: unset;
+	cursor: pointer;
 }		
 /* anchor tag decorations */
 .underline {
